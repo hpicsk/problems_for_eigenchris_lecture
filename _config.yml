@@ -1,0 +1,20 @@
+title: Math Notes
+description: Comprehensive collection of example problems and solutions for eigenchris's theoretical physics lectures
+baseurl: "/MathNotes"
+url: "https://hpicsk.github.io"
+
+# Jekyll theme
+theme: minima
+
+# Markdown configuration
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+
+# GitHub Pages plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
