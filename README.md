@@ -1,3 +1,5 @@
+# MathNotes
+
 Comprehensive collection of example problems and solutions for eigenchris's theoretical physics lectures, organized by topic with easy navigation for GitHub Pages.
 
 ## Quick Navigation
