@@ -1,3 +1,5 @@
+# TensorCalc 08: Covector Field Transformation Rules (Covariance) - Example Problems and Solutions
+
 ## Covariant Vectors (Covectors)
 
 ### Problem 1

@@ -1,3 +1,5 @@
+# TfB 11: Linear Maps are Vector-Covector Pairs - Example Problems and Solutions
+
 ## Problem 1
 Consider a linear map $L(\mathbf{v}) = (\mathbf{v} \cdot \mathbf{u}) \mathbf{w}$, where $\mathbf{u} = (1, 0)$ and $\mathbf{w} = (0, 1)$. Express $L$ as a tensor product of a vector and a covector. What is the rank of this tensor?
 

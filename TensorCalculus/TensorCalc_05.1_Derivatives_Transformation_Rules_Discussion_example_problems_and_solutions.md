@@ -1,3 +1,5 @@
+# TensorCalc 05.1: Derivatives Transformation Rules Discussion - Example Problems and Solutions
+
 This lecture is a discussion, so the problems here are more conceptual and aim to solidify the understanding of the transformation rules.
 
 ## Conceptual Questions

@@ -1,3 +1,5 @@
+# TensorCalc 15: Geodesics and Christoffel Symbols (extrinsic geometry) - Example Problems and Solutions
+
 ## Problem 1: Geodesics
 
 1. What is a geodesic? Give a qualitative description.

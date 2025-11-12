@@ -1,3 +1,5 @@
+# TensorCalc 06: Differential Forms are Covectors - Example Problems and Solutions
+
 ## Covectors (1-forms)
 
 ### Problem 1

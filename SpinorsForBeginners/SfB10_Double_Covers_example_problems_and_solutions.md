@@ -1,3 +1,5 @@
+# SfB 10: Double Covers - Example Problems and Solutions
+
 This lecture explains the concept of a double cover, focusing on the relationship between SU(2) and SO(3), and Spin(1,3) and SO+(1,3).
 
 ## Problem 1: The Circle covering the Circle

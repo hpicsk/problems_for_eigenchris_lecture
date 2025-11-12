@@ -1,3 +1,5 @@
+# Relativity 109c: Lorentz Gauge - Example Problems and Solutions
+
 ## Problem 1
 
 What is a gauge transformation in the context of linearized gravity?

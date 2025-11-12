@@ -1,3 +1,5 @@
+# Relativity 108c: Schwarzschild Geodesics Mercury Perihelion - Example Problems and Solutions
+
 ## Problem 1
 
 Derive the geodesic equations for the Schwarzschild metric.

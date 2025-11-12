@@ -1,3 +1,5 @@
+# Relativity 102b: Contravariance and Covariance - Example Problems and Solutions
+
 ## Problem 1
 
 Given a contravariant vector $A^{\mu} = (A^0, A^1, A^2, A^3)$, find the corresponding covariant vector $A_{\mu}$.

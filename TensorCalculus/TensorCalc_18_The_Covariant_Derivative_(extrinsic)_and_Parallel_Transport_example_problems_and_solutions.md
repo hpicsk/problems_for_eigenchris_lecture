@@ -1,3 +1,5 @@
+# TensorCalc 18: The Covariant Derivative (extrinsic) and Parallel Transport - Example Problems and Solutions
+
 ## Parallel Transport
 
 ### Problem 1
