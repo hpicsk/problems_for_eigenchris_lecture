@@ -1,5 +1,3 @@
-# Gravitational Waves Introduction - Example Problems and Solutions
-
 ## Problem 1
 
 What are gravitational waves?

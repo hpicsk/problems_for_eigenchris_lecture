@@ -1,5 +1,3 @@
-# Invariance - Example Problems and Solutions
-
 ## Problem 1
 
 The spacetime interval is given by the equation $ds^2 = -c^2dt^2 + dx^2 + dy^2 + dz^2$. Show that the spacetime interval is invariant under a Lorentz transformation.

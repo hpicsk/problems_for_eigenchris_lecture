@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Riemann Curvature Tensor
-
 ## The Riemann Curvature Tensor
 
 ### Problem 1

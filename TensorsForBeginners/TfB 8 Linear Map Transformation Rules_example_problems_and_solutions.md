@@ -1,5 +1,3 @@
-# TfB 8 Linear Map Transformation Rules: Example Problems and Solutions
-
 ## Problem 1
 The matrix of a linear map $L$ in the standard basis is 
 $$\begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix}$$

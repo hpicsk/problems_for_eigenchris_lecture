@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Ricci Tensor, Scalar, Volume Form
-
 ## Ricci Tensor and Volume
 
 ### Problem 1

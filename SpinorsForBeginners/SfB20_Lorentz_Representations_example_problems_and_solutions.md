@@ -1,6 +1,4 @@
 
-# Example Problems: Representations of the Lorentz Group
-
 This lecture discusses the representations of the Lorentz group, which are crucial for classifying elementary particles.
 
 ## Problem 1: The Lie Algebra of the Lorentz Group

@@ -1,5 +1,3 @@
-# Eddington-Finkelstein, Kruskal-Szekeres Coordinates and Einstein-Rosen Bridge - Problems and Solutions
-
 ## Problem 1
 
 What are Eddington-Finkelstein coordinates? How do they remove the coordinate singularity at the event horizon?

@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Spin Groups
-
 This lecture introduces the Spin group, which is the double cover of the special orthogonal group SO(n).
 
 ## Problem 1: The Pin and Spin Groups

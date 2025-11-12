@@ -1,5 +1,3 @@
-# Covariant Derivative - Problems and Solutions
-
 ## Problem 1
 
 What is the covariant derivative? Why is it necessary in curved spacetime?

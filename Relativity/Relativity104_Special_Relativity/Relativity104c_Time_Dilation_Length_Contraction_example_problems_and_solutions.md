@@ -1,5 +1,3 @@
-# Time Dilation and Length Contraction - Problems and Solutions
-
 ## Problem 1
 
 A clock is moving at a speed of $0.6c$. How much slower does it run compared to a stationary clock?

@@ -1,5 +1,3 @@
-# Friedmann Equations - Example Problems and Solutions
-
 ## Problem 1
 
 Derive the Friedmann equations from the Einstein field equations.

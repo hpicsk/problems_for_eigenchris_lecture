@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Flagpoles and CP^1
-
 This lecture discusses the complex projective space CP^1, also known as the Riemann sphere, and its relationship to spinors. The "flagpole" refers to the geometric interpretation of a spinor.
 
 ## Problem 1: The Riemann Sphere

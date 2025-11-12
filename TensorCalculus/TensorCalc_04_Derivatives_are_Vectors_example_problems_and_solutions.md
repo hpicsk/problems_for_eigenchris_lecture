@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Derivatives are Vectors
-
 ## Directional Derivatives
 
 ### Problem 1

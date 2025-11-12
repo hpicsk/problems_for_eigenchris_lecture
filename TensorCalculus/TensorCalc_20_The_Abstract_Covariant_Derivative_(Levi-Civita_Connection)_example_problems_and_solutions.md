@@ -1,5 +1,3 @@
-# Example Problems and Solutions: The Abstract Covariant Derivative (Levi-Civita Connection)
-
 ## The Connection
 
 ### Problem 1

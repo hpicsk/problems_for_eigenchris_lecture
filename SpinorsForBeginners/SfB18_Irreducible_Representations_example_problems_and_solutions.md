@@ -1,6 +1,4 @@
 
-# Example Problems: Irreducible Representations
-
 This lecture covers the concept of irreducible representations (irreps) of Lie groups, which are the building blocks of all representations.
 
 ## Problem 1: Reducibility of a Representation

@@ -1,5 +1,3 @@
-# Gradient vs. d operator (exterior derivative) - Problems and Solutions
-
 ## Problem 1: The Gradient $\nabla f$
 
 1. In Cartesian coordinates, the gradient of a scalar function $f$ is given by $\nabla f = (\partial f/\partial x, \partial f/\partial y, \partial f/\partial z)$. What kind of object is this? (Vector, covector, etc.)

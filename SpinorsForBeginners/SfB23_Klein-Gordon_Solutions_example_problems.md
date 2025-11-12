@@ -1,5 +1,3 @@
-# Example Problems: Klein-Gordon Equation and Solutions
-
 The Klein-Gordon equation is the relativistic wave equation for a spin-0 particle.
 
 ## Problem 1: The Klein-Gordon Equation

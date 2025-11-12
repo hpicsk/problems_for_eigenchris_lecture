@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Riemann Curvature Tensor Components
-
 ## Components of the Riemann Tensor
 
 The components of the Riemann curvature tensor are given by:

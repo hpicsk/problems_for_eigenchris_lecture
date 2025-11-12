@@ -1,5 +1,3 @@
-# Metric Tensor and Arc Lengths (Flat Space) - Problems and Solutions
-
 ## Problem 1: The Metric Tensor
 
 1. What is the metric tensor? What does it represent?

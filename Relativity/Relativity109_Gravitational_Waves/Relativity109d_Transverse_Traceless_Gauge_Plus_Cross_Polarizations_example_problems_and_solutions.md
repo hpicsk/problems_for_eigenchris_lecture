@@ -1,5 +1,3 @@
-# Transverse Traceless Gauge, Plus and Cross Polarizations - Example Problems and Solutions
-
 ## Problem 1
 
 What is the transverse traceless gauge?

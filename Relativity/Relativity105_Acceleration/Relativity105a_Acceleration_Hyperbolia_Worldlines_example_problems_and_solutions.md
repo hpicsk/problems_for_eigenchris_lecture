@@ -1,5 +1,3 @@
-# Acceleration and Hyperbolic Worldlines - Problems and Solutions
-
 ## Problem 1
 
 A particle starts from rest and moves with a constant proper acceleration $a$. Find the equation of its worldline.

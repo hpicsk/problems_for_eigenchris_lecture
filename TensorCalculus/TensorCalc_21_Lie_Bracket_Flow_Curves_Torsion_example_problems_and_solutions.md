@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Lie Bracket, Flow Curves, Torsion
-
 ## Flow Curves
 
 ### Problem 1

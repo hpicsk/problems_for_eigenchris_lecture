@@ -1,6 +1,4 @@
 
-# Example Problems: Dirac Equation and Gamma Matrices
-
 This lecture introduces the Dirac equation, a relativistic wave equation for spin-1/2 particles, and the gamma matrices that are central to it.
 
 ## Problem 1: The Dirac Equation

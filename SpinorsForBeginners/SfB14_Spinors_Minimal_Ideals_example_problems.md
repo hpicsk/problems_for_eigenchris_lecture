@@ -1,5 +1,3 @@
-# Example Problems: Spinors as Minimal Ideals
-
 This lecture explores a more abstract and powerful definition of spinors as elements of minimal left ideals of a Clifford algebra.
 
 ## Problem 1: Clifford Algebras

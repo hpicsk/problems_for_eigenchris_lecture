@@ -1,5 +1,3 @@
-# Example Problems: Projectors and Ideals
-
 This lecture likely provides the algebraic tools needed to define spinors as minimal ideals.
 
 ## Problem 1: Projectors (Idempotents)

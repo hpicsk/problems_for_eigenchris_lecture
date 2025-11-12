@@ -1,5 +1,3 @@
-# TfB 9 Metric Tensor: Example Problems and Solutions
-
 ## Problem 1
 In a 2D Euclidean space, the metric tensor is given by the identity matrix. What is the length of the vector $(3, 4)$?
 

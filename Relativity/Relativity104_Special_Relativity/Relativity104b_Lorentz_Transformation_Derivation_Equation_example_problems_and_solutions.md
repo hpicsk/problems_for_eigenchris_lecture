@@ -1,5 +1,3 @@
-# Lorentz Transformation Derivation Equation - Problems and Solutions
-
 ## Problem 1
 
 Starting from the postulates of special relativity, derive the Lorentz transformation equations.

@@ -1,5 +1,3 @@
-# Spacetime Diagrams - Problems and Solutions
-
 ## Problem 1
 
 Draw a spacetime diagram for a particle at rest at $x = 1$.

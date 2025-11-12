@@ -1,6 +1,4 @@
 
-# Example Problems: Solutions to the Klein-Gordon Equation
-
 This lecture is about finding and interpreting the solutions to the Klein-Gordon equation, which describes spin-0 particles.
 
 ## Problem 1: Plane Wave Solutions

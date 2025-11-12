@@ -1,5 +1,3 @@
-# Galilean Relativity - Example Problems and Solutions
-
 ## Problem 1
 
 A train is moving with a constant velocity of $20$ m/s with respect to the ground. A person on the train throws a ball in the direction of motion of the train with a velocity of $5$ m/s with respect to the train. What is the velocity of the ball with respect to the ground?
