@@ -7,7 +7,7 @@ He started from the energy-momentum relation $E^2 = p^2 + m^2$ and tried to "tak
 $H = \alpha \cdot p + \beta m$
 
 a) By squaring the Hamiltonian ($H^2$) and demanding that it matches $p^2+m^2$, find the conditions that the coefficients $\alpha_i$ (i=1,2,3) and $\beta$ must satisfy.
-   (i.e., find {$\alpha_i, \alpha_j$}, {$\alpha_i, \beta$}, and $\beta^2$).
+   (i.e., find $\{\alpha_i, \alpha_j\}$, $\{\alpha_i, \beta\}$, and $\beta^2$).
 b) Show that these conditions cannot be satisfied if $\alpha_i$ and $\beta$ are numbers. They must be matrices. What is the minimum dimension of these matrices?
 c) The standard choice for these matrices (in the Dirac-Pauli representation) involves the Pauli matrices.
    $\alpha_i = \begin{pmatrix} 0 & \sigma_i \\ \sigma_i & 0 \end{pmatrix}$, $\beta = \begin{pmatrix} I & 0 \\ 0 & -I \end{pmatrix}$.
@@ -20,10 +20,10 @@ $(i\gamma^\mu \partial_\mu - m)\psi = 0$
 where $\gamma^0 = \beta$, $\gamma^i = \beta\alpha_i$.
 
 a) From the relations for $\alpha_i$ and $\beta$, derive the fundamental anti-commutation relation for the gamma matrices:
-   {$\gamma^\mu, \gamma^\nu$} = 2\eta^{\mu\nu}I$, where $\eta^{\mu\nu}$ is the Minkowski metric tensor (e.g., with signature (+---)). This is the definition of a Clifford algebra.
+   $\{\gamma^\mu, \gamma^\nu\} = 2\eta^{\mu\nu}I$, where $\eta^{\mu\nu}$ is the Minkowski metric tensor (e.g., with signature (+---)). This is the definition of a Clifford algebra.
 b) In the Dirac-Pauli representation, write out the four gamma matrices explicitly.
 c) The fifth gamma matrix is defined as $\gamma^5 = i\gamma^0\gamma^1\gamma^2\gamma^3$. Show that in the Dirac-Pauli representation, $\gamma^5 = \begin{pmatrix} 0 & I \\ I & 0 \end{pmatrix}$.
-d) Show that $\gamma^5$ anti-commutes with the other four gamma matrices: {$\gamma^5, \gamma^\mu$} = 0.
+d) Show that $\gamma^5$ anti-commutes with the other four gamma matrices: $\{\gamma^5, \gamma^\mu\} = 0$.
 
 ## Problem 3: Plane Wave Solutions
 
