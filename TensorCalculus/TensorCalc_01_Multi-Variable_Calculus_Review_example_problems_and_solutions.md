@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Multi-Variable Calculus Review"
+---
+
 # Multi-Variable Calculus Review: Example Problems and Solutions
 
 ## Partial Derivatives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Geodesics and Christoffel Symbols (extrinsic geometry)"
+---
+
 # Geodesics and Christoffel Symbols (extrinsic geometry) - Problems and Solutions
 
 ## Problem 1: Geodesics

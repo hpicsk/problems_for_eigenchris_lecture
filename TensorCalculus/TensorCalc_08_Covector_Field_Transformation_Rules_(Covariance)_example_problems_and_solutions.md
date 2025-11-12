@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Covector Field Transformation Rules (Covariance)"
+---
+
 # Example Problems and Solutions: Covector Field Transformation Rules (Covariance)
 
 ## Covariant Vectors (Covectors)

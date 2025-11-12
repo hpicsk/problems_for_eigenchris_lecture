@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Abstract Covariant Derivative (Levi-Civita Connection)"
+---
+
 # Example Problems and Solutions: The Abstract Covariant Derivative (Levi-Civita Connection)
 
 ## The Connection

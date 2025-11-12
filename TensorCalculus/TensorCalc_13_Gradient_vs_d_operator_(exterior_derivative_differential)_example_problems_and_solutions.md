@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Gradient vs. d operator (exterior derivative)"
+---
+
 # Gradient vs. d operator (exterior derivative) - Problems and Solutions
 
 ## Problem 1: The Gradient $\nabla f$

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Riemann Curvature Tensor Components"
+---
+
 # Example Problems and Solutions: Riemann Curvature Tensor Components
 
 ## Components of the Riemann Tensor

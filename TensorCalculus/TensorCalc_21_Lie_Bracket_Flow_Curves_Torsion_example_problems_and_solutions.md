@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lie Bracket, Flow Curves, Torsion"
+---
+
 # Example Problems and Solutions: Lie Bracket, Flow Curves, Torsion
 
 ## Flow Curves

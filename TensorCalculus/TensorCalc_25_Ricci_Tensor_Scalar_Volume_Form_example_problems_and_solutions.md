@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ricci Tensor, Scalar, Volume Form"
+---
+
 # Example Problems and Solutions: Ricci Tensor, Scalar, Volume Form
 
 ## Ricci Tensor and Volume

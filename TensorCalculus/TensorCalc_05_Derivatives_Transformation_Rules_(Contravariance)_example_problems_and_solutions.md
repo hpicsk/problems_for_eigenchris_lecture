@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Derivatives Transformation Rules (Contravariance)"
+---
+
 # Example Problems and Solutions: Derivatives Transformation Rules (Contravariance)
 
 ## Transformation of Basis Vectors

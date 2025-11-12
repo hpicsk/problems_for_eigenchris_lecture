@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Metric Tensor and Arc Lengths (Flat Space)"
+---
+
 # Metric Tensor and Arc Lengths (Flat Space) - Problems and Solutions
 
 ## Problem 1: The Metric Tensor

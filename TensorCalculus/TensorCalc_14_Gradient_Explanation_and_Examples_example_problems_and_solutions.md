@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Gradient Explanation and Examples"
+---
+
 # Gradient Explanation and Examples - Problems and Solutions
 
 ## Problem 1: Geometric Interpretation of the Gradient

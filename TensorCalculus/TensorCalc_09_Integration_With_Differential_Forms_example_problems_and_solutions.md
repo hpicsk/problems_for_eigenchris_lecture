@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Integration With Differential Forms"
+---
+
 # Example Problems and Solutions: Integration With Differential Forms
 
 ## Integration of k-forms

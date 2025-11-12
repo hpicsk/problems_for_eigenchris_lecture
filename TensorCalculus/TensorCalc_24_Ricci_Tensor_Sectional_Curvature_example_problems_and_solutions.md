@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ricci Tensor, Sectional Curvature"
+---
+
 # Example Problems and Solutions: Ricci Tensor, Sectional Curvature
 
 ## The Ricci Tensor

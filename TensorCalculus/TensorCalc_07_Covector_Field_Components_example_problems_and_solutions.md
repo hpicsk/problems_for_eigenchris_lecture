@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Covector Field Components"
+---
+
 # Example Problems and Solutions: Covector Field Components
 
 ## Components of a Covector Field

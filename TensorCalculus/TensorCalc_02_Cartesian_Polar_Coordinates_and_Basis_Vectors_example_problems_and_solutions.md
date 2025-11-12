@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Cartesian, Polar Coordinates, and Basis Vectors"
+---
+
 # Cartesian, Polar Coordinates, and Basis Vectors: Example Problems and Solutions
 
 ## Coordinate Transformations

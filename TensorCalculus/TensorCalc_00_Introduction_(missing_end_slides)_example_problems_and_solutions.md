@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Introduction to Tensor Calculus"
+---
+
 # Introduction to Tensor Calculus: Example Problems and Solutions
 
 ## Conceptual Questions

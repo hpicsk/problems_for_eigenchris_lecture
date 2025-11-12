@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Covariant Derivative (intrinsic) and Geodesics"
+---
+
 # Example Problems and Solutions: The Covariant Derivative (intrinsic) and Geodesics
 
 ## Intrinsic Covariant Derivative

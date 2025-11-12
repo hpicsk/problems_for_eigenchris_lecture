@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Geodesics Examples on Plane and Sphere"
+---
+
 # Geodesics Examples on Plane and Sphere - Problems and Solutions
 
 ## Problem 1: Geodesics on a Plane

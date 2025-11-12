@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Riemann Curvature Tensor"
+---
+
 # Example Problems and Solutions: Riemann Curvature Tensor
 
 ## The Riemann Curvature Tensor

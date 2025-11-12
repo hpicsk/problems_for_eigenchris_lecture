@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Derivatives Transformation Rules Discussion"
+---
+
 # Example Problems and Solutions: Derivatives Transformation Rules Discussion
 
 This lecture is a discussion, so the problems here are more conceptual and aim to solidify the understanding of the transformation rules.

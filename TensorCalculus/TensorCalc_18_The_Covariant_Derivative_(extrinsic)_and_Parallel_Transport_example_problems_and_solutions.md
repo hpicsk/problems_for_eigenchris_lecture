@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Covariant Derivative (extrinsic) and Parallel Transport"
+---
+
 # Example Problems and Solutions: The Covariant Derivative (extrinsic) and Parallel Transport
 
 ## Parallel Transport

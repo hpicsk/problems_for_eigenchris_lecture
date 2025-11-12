@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Jacobian"
+---
+
 # The Jacobian: Example Problems and Solutions
 
 ## Jacobian Matrix

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Covariant Derivative (Component Definition) Option"
+---
+
 # The Covariant Derivative (Component Definition) Option - Problems and Solutions
 
 This lecture focuses on the component definition of the covariant derivative. The problems will be similar to the previous lecture, but with a focus on the component-based calculations.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Integration With Differential Forms Examples"
+---
+
 # Integration With Differential Forms Examples - Problems and Solutions
 
 ## Problem 1: Work Done by a Force

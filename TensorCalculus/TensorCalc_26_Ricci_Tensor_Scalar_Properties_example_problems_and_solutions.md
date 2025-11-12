@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ricci Tensor, Scalar Properties"
+---
+
 # Example Problems and Solutions: Ricci Tensor, Scalar Properties
 
 ## Einstein Tensor

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Covariant Derivative (flat space)"
+---
+
 # Example Problems and Solutions: The Covariant Derivative (flat space)
 
 ## The Covariant Derivative

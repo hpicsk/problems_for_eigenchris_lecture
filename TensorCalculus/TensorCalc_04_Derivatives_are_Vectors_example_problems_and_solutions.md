@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Derivatives are Vectors"
+---
+
 # Example Problems and Solutions: Derivatives are Vectors
 
 ## Directional Derivatives

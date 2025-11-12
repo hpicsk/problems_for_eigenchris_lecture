@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Metric Tensor in Curved Spaces for Measuring Arc Length"
+---
+
 # Metric Tensor in Curved Spaces for Measuring Arc Length - Problems and Solutions
 
 ## Problem 1: Metric on a Sphere
