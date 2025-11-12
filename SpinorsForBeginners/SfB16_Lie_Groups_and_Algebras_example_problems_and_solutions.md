@@ -1,6 +1,4 @@
 
-# Example Problems: Lie Groups and Algebras
-
 This lecture introduces the mathematical framework of Lie groups and Lie algebras, which are essential for describing continuous symmetries in physics.
 
 ## Problem 1: The Lie Group SU(2)

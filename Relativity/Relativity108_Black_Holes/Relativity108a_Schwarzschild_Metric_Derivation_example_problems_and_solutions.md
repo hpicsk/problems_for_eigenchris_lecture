@@ -1,5 +1,3 @@
-# Schwarzschild Metric Derivation - Problems and Solutions
-
 ## Problem 1
 
 Starting from the vacuum Einstein field equations, derive the Schwarzschild metric.

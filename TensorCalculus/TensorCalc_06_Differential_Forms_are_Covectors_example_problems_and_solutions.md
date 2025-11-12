@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Differential Forms are Covectors
-
 ## Covectors (1-forms)
 
 ### Problem 1

@@ -1,5 +1,3 @@
-# Gravitational Frequency Shift and Covector Fields - Problems and Solutions
-
 ## Problem 1
 
 Derive the formula for the gravitational frequency shift.

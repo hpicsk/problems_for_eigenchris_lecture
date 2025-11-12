@@ -1,5 +1,3 @@
-# TfB 5,6 Covector Basis and Transformation Rules: Example Problems and Solutions
-
 ## Problem 1
 A covector $\mathbf{f}$ has components $(2, -1)$ in the dual basis $\{\mathbf{e^*_1}, \mathbf{e^*_2}\}$ corresponding to the standard basis $\{\mathbf{e_1}, \mathbf{e_2}\}$. Consider the new basis from problem 1 in "TfB 2,3". What are the components of $\mathbf{f}$ in the dual basis corresponding to this new basis?
 

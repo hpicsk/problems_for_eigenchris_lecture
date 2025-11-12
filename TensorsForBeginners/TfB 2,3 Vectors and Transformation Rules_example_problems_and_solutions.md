@@ -1,5 +1,3 @@
-# TfB 2,3 Vectors and Transformation Rules: Example Problems and Solutions
-
 ## Problem 1
 A vector $\mathbf{v}$ has components $(1, 2)$ in the standard basis $\{\mathbf{e_1}, \mathbf{e_2}\}$. A new basis $\{\mathbf{e'_1}, \mathbf{e'_2}\}$ is given by $\mathbf{e'_1} = 2\mathbf{e_1} + \mathbf{e_2}$ and $\mathbf{e'_2} = \mathbf{e_1} - \mathbf{e_2}$. What are the components of $\mathbf{v}$ in this new basis?
 

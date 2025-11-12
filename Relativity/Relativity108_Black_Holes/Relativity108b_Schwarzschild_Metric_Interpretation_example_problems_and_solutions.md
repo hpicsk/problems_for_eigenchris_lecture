@@ -1,5 +1,3 @@
-# Schwarzschild Metric Interpretation - Problems and Solutions
-
 ## Problem 1
 
 What is the event horizon of a Schwarzschild black hole?

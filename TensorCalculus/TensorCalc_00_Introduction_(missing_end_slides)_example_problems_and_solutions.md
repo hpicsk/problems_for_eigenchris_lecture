@@ -1,5 +1,3 @@
-# Introduction to Tensor Calculus: Example Problems and Solutions
-
 ## Conceptual Questions
 
 ### Problem 1

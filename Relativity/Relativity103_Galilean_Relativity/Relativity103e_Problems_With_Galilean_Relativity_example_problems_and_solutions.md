@@ -1,5 +1,3 @@
-# Problems With Galilean Relativity - Problems and Solutions
-
 ## Problem 1
 
 The speed of light is measured to be $c$ in all inertial frames. Show that this is inconsistent with the Galilean transformation.

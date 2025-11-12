@@ -1,5 +1,3 @@
-# TfB 14 Tensors are General Vector Covector Combinations: Example Problems and Solutions
-
 ## Problem 1
 Construct a (1, 2) tensor by taking the tensor product of a vector $\mathbf{v} = (1, 2)$, a covector $\mathbf{f} = (3, 4)$, and a covector $\mathbf{g} = (5, 6)$.
 

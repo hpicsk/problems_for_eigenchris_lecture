@@ -1,5 +1,3 @@
-# Covectors and Doppler Effect - Problems and Solutions
-
 ## Problem 1
 
 What is a covector? How is it different from a vector?

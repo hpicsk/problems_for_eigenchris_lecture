@@ -1,5 +1,3 @@
-# Dynamics and Four-Vectors - Problems and Solutions
-
 ## Problem 1
 
 Define the four-velocity and four-momentum.

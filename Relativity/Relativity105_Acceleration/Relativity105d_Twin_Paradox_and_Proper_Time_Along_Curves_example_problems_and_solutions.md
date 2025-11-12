@@ -1,5 +1,3 @@
-# Twin Paradox and Proper Time Along Curves - Problems and Solutions
-
 ## Problem 1
 
 Explain the twin paradox.

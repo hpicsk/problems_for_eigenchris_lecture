@@ -1,5 +1,3 @@
-# Example Problems and Solutions: The Covariant Derivative (extrinsic) and Parallel Transport
-
 ## Parallel Transport
 
 ### Problem 1

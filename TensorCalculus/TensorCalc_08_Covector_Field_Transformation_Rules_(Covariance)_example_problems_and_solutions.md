@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Covector Field Transformation Rules (Covariance)
-
 ## Covariant Vectors (Covectors)
 
 ### Problem 1

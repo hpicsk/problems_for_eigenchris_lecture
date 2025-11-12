@@ -1,5 +1,3 @@
-# FLRW Geodesics - Example Problems and Solutions
-
 ## Problem 1
 
 Derive the geodesic equations for the FLRW metric.

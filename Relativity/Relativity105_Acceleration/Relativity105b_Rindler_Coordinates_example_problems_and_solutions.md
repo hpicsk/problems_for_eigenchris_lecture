@@ -1,5 +1,3 @@
-# Rindler Coordinates - Problems and Solutions
-
 ## Problem 1
 
 Write down the transformation from Minkowski coordinates to Rindler coordinates.

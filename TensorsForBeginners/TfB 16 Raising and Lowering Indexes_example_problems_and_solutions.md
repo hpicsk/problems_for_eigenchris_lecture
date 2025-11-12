@@ -1,5 +1,3 @@
-# TfB 16 Raising and Lowering Indexes: Example Problems and Solutions
-
 ## Problem 1
 Given a covector $\mathbf{f}$ with components $(1, 2)$ in a 2D Euclidean space (metric is the identity matrix), what are the components of the corresponding vector $\mathbf{f}^{\sharp}$?
 

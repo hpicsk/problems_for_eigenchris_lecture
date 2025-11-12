@@ -1,5 +1,3 @@
-# Metric Tensor in Curved Spaces for Measuring Arc Length - Problems and Solutions
-
 ## Problem 1: Metric on a Sphere
 
 Consider a sphere of radius $R$. The coordinates on the surface of the sphere can be parameterized by the spherical coordinates $\theta$ (polar angle) and $\phi$ (azimuthal angle). The embedding of the sphere in 3D Cartesian space is given by:

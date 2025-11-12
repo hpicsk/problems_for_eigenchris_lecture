@@ -1,6 +1,4 @@
 
-# Example Problems: Solutions to the Proca Equation
-
 This lecture deals with the Proca equation, which describes massive spin-1 particles (vector bosons).
 
 ## Problem 1: The Proca Equation

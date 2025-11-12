@@ -1,5 +1,3 @@
-# TfB 15 Tensor Product Spaces: Example Problems and Solutions
-
 ## Problem 1
 If $V$ is a 3-dimensional vector space and $W$ is a 4-dimensional vector space, what is the dimension of their tensor product space $V \otimes W$?
 

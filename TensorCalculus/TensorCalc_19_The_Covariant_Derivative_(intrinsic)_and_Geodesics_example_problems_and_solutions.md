@@ -1,5 +1,3 @@
-# Example Problems and Solutions: The Covariant Derivative (intrinsic) and Geodesics
-
 ## Intrinsic Covariant Derivative
 
 ### Problem 1

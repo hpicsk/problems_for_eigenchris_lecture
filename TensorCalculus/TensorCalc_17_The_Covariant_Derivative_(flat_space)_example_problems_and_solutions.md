@@ -1,5 +1,3 @@
-# Example Problems and Solutions: The Covariant Derivative (flat space)
-
 ## The Covariant Derivative
 
 ### Problem 1

@@ -1,5 +1,3 @@
-# Spacetime Interval and Minkowski Metric - Problems and Solutions
-
 ## Problem 1
 
 What is the Minkowski metric? Write it down in matrix form.

@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Covector Field Components
-
 ## Components of a Covector Field
 
 ### Problem 1

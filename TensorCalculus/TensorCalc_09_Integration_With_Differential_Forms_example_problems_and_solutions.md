@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Integration With Differential Forms
-
 ## Integration of k-forms
 
 ### Problem 1

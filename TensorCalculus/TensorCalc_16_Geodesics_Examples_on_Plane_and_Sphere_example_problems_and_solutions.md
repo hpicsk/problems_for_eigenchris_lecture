@@ -1,5 +1,3 @@
-# Geodesics Examples on Plane and Sphere - Problems and Solutions
-
 ## Problem 1: Geodesics on a Plane
 
 1. Using the geodesic equations in Cartesian coordinates, show that the geodesics on a flat plane are straight lines of the form $y = mx + c$.

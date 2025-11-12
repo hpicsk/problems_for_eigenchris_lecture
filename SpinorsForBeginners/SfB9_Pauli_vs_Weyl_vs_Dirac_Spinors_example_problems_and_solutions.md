@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Pauli, Weyl, and Dirac Spinors
-
 ## Problem 1: Chirality of Dirac Spinors
 
 A Dirac spinor $\psi$ can be decomposed into its left-handed and right-handed components using the chirality operator $\gamma^5$.

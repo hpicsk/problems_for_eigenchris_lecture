@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Vectors or Matrices?
-
 This lecture explores the different ways to represent vectors and linear transformations, particularly in the context of spinors and Clifford algebras.
 
 ## Problem 1: Vector Representation

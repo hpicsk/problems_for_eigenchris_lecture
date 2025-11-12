@@ -1,5 +1,3 @@
-# Integration With Differential Forms Examples - Problems and Solutions
-
 ## Problem 1: Work Done by a Force
 
 The work done by a force $F$ along a path $C$ is given by the line integral $W = \int_C F \cdot dr$. In the language of differential forms, the force is represented by a 1-form $\omega_F$, and the work done is $W = \int_C \omega_F$.

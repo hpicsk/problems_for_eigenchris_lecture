@@ -1,6 +1,4 @@
 
-# Example Problems: Spin 1/2 Representations
-
 This lecture focuses on the spin 1/2 representation of the SU(2) group, which describes the behavior of spin 1/2 particles like electrons.
 
 ## Problem 1: Wigner D-matrix for spin 1/2

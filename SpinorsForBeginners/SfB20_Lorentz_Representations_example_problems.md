@@ -1,5 +1,3 @@
-# Example Problems: Representations of the Lorentz Group
-
 This lecture covers how different types of fields (scalars, vectors, spinors) transform under Lorentz transformations.
 
 ## Problem 1: The Lorentz Group

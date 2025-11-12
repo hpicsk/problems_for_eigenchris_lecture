@@ -1,5 +1,3 @@
-# Example Problems: Lie Groups and Lie Algebras
-
 This lecture introduces the mathematical framework for continuous symmetries.
 
 ## Problem 1: What is a Lie Group?

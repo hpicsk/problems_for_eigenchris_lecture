@@ -1,5 +1,3 @@
-# Schwarzschild Geodesics and Mercury Perihelion - Problems and Solutions
-
 ## Problem 1
 
 Derive the geodesic equations for the Schwarzschild metric.

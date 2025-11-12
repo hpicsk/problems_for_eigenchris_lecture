@@ -1,5 +1,3 @@
-# Gradient Explanation and Examples - Problems and Solutions
-
 ## Problem 1: Geometric Interpretation of the Gradient
 
 1. The gradient $\nabla f$ of a scalar function $f$ points in the direction of the greatest rate of increase of $f$.

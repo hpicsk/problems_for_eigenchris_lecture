@@ -1,5 +1,3 @@
-# Example Problems and Solutions: Derivatives Transformation Rules (Contravariance)
-
 ## Transformation of Basis Vectors
 
 ### Problem 1

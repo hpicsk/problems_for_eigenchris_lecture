@@ -1,5 +1,3 @@
-# Example Problems: Spin-1/2 Representations
-
 This lecture focuses on the fundamental building block of many physical theories: the spin-1/2 representation of the rotation and Lorentz groups.
 
 ## Problem 1: The Spin-1/2 Rep of SU(2)

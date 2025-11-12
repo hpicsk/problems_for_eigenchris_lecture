@@ -1,5 +1,3 @@
-# Geodesics - Problems and Solutions
-
 ## Problem 1
 
 What is the geodesic equation?
