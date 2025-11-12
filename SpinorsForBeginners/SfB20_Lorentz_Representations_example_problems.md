@@ -16,9 +16,9 @@ c) Show that the set of all Lorentz transformations forms a group.
 
 ## Problem 2: Scalar Fields (The Trivial Representation)
 
-A scalar field $\phi(x)$ transforms under a Lorentz transformation $x \rightarrow x\'$ = $\Lambda x$ as:
-$\phi\'(x\') = \phi(x)$
-or $\phi\'(x) = \phi(\Lambda^{-1}x)$.
+A scalar field $\phi(x)$ transforms under a Lorentz transformation $x \rightarrow x'$ = $\Lambda x$ as:
+$\phi'(x') = \phi(x)$
+or $\phi'(x) = \phi(\Lambda^{-1}x)$.
 
 a) The Klein-Gordon equation is $(\Box + m^2)\phi(x) = 0$. Show that this equation is Lorentz invariant.
    (Hint: Show that the D'Alembertian operator $\Box = \partial_\mu \partial^\mu$ is invariant).
@@ -27,27 +27,27 @@ b) Why is this called the "(0,0)" representation?
 ## Problem 3: Vector Fields (The (1/2, 1/2) Representation)
 
 A 4-vector field $A^\mu(x)$ transforms as:
-$A'^μ(xΔ) = Λ^μ{}_ν A^ν(x)$
+$A'^\mu(x') = \Lambda^\mu{}_\nu A^\nu(x)$
 
 a) The Maxwell equations in terms of the 4-vector potential are $\Box A^\mu - \partial^\mu(\partial_\nu A^\nu) = j^\mu$.
    Show that if the Lorenz gauge condition $\partial_\nu A^\nu = 0$ is imposed, the equation becomes $\Box A^\mu = j^\mu$.
 b) Show that this equation is Lorentz covariant if the current $j^\mu$ also transforms as a vector.
 c) The field strength tensor is $F^{\mu\nu} = \partial^\mu A^\nu - \partial^\nu A^\mu$. How does this tensor transform under a Lorentz transformation?
-   $F'^{\mu\nu}(x\") = ?$
+   $F'^{\mu\nu}(x') = ?$
 
 ## Problem 4: Spinor Fields (The (1/2, 0) and (0, 1/2) Representations)
 
 The Lorentz algebra has the same complexification as SU(2) x SU(2). This leads to representations labeled by two half-integers $(j_L, j_R)$.
-A Dirac spinor $\psi$ is in the $(\frac{1}{2}, 0) \002 (0, \frac{1}{2})$ representation. It transforms as:
-$Ψ′(x′) = S[Λ] Ψ(x)$
-where $S[Λ]$ is a 4x4 matrix that depends on the Lorentz transformation $Λ$.
-$S[Λ] = \exp(-\frac{i}{4}ω_{μν}σ^{μν})$, where $σ^{μν} = \frac{i}{2}[γ^μ, γ^ν]$ are the generators of the representation.
+A Dirac spinor $\psi$ is in the $(\frac{1}{2}, 0) \oplus (0, \frac{1}{2})$ representation. It transforms as:
+$\Psi'(x') = S[\Lambda] \Psi(x)$
+where $S[\Lambda]$ is a 4x4 matrix that depends on the Lorentz transformation $\Lambda$.
+$S[\Lambda] = \exp(-\frac{i}{4}\omega_{\mu\nu}\sigma^{\mu\nu})$, where $\sigma^{\mu\nu} = \frac{i}{2}[\gamma^\mu, \gamma^\nu]$ are the generators of the representation.
 
-a) The generators of rotations are $J_i = \frac{1}{2}ε_{ijk}σ^{jk}$. The generators of boosts are $K_i = σ^{0i}$.
+a) The generators of rotations are $J_i = \frac{1}{2}\epsilon_{ijk}\sigma^{jk}$. The generators of boosts are $K_i = \sigma^{0i}$.
    Calculate the generator for a boost in the x-direction, $K_1$.
-b) Calculate the transformation matrix $S[Λ]$ for an infinitesimal boost in the x-direction with velocity $δ v$.
-c) The Dirac equation is $(iγ^μ∂_μ - m)Ψ = 0$. Show that this equation is Lorentz covariant.
-   (Hint: You need to show that $S^{-1}γ^μ S = Λ^μ{}_ν γ^ν$).
+b) Calculate the transformation matrix $S[\Lambda]$ for an infinitesimal boost in the x-direction with velocity $\delta v$.
+c) The Dirac equation is $(i\gamma^\mu\partial_\mu - m)\Psi = 0$. Show that this equation is Lorentz covariant.
+   (Hint: You need to show that $S^{-1}\gamma^\mu S = \Lambda^\mu{}_\nu \gamma^\nu$).
 
 ## Problem 5: Classifying Representations
 
@@ -56,8 +56,8 @@ The representations of the Lorentz group are classified by $(j_L, j_R)$.
 - $(\frac{1}{2}, 0)$: Left-handed Weyl spinor
 - $(0, \frac{1}{2})$: Right-handed Weyl spinor
 - $(\frac{1}{2}, \frac{1}{2})$: 4-vector
-- $(\frac{1}{2}, 0) \002 (0, \frac{1}{2})$: Dirac spinor
-- $(1,0) \002 (0,1)$: Antisymmetric tensor (like $F^{μν}$)
+- $(\frac{1}{2}, 0) \oplus (0, \frac{1}{2})$: Dirac spinor
+- $(1,0) \oplus (0,1)$: Antisymmetric tensor (like $F^{\mu\nu}$)
 
 a) How many components does a field in the $(j_L, j_R)$ representation have?
 b) What is the representation for a symmetric, traceless 2-index tensor?

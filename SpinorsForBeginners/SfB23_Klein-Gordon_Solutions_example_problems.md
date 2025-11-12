@@ -4,7 +4,7 @@ The Klein-Gordon equation is the relativistic wave equation for a spin-0 particl
 
 ## Problem 1: The Klein-Gordon Equation
 
-The Klein-Gordon equation is $(\Box + m^2)\phi = 0$, where $\Box = \partial_\mu \partial^\mu = \frac{\partial^2}{\partial t^2} - \nabla^2$ (in natural units c=1, h_bar=1).
+The Klein-Gordon equation is $(\Box + m^2)\phi = 0$, where $\Box = \partial_\mu \partial^\mu = \frac{\partial^2}{\partial t^2} - \nabla^2$ (in natural units $c=1$, $\hbar=1$).
 
 a) Look for plane wave solutions of the form $\phi(x) = N e^{-ip\cdot x} = N e^{-i(Et - \vec{p}\cdot\vec{x})}$.
    Substitute this into the Klein-Gordon equation and show that it leads to the energy-momentum relation $E^2 = p^2 + m^2$.
@@ -28,7 +28,7 @@ $\phi(x) = \int \frac{d^3p}{(2\pi)^3} \frac{1}{\sqrt{2E_p}} (a_p e^{-ipx} + b_p^
 Here, $a_p$ annihilates a particle with momentum p, and $b_p^\dagger$ creates an anti-particle with momentum p.
 
 a) What is the role of the negative-frequency (positive exponent) solutions in this field expansion?
-b) The canonical commutation relations for the field are $[[\phi(x), \pi(y)]] = i\delta(x-y)$, where $\pi = \dot{\phi}$ is the conjugate momentum. How does this lead to commutation relations for the creation and annihilation operators?
+b) The canonical commutation relations for the field are $[\phi(x), \pi(y)] = i\delta(x-y)$, where $\pi = \dot{\phi}$ is the conjugate momentum. How does this lead to commutation relations for the creation and annihilation operators?
 c) What is the vacuum state $|0\rangle$? How do you create a one-particle state from the vacuum?
 
 ## Problem 4: Interaction with Electromagnetism
