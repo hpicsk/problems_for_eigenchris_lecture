@@ -19,7 +19,7 @@ Comprehensive collection of example problems and solutions for eigenchris's theo
 
 ### Relativity 102 - Keys to Relativity
 - [Invariance](Relativity/Relativity102_Keys_To_Relativity/Relativity102a_Invariance_example_problems_and_solutions.md)
-- [Contravariance and Covariance](Relativity/Relativity102_Keys_To_Relativity/Relativity102b_Contravariance_and_Covaraince_example_problems_and_solutions.md)
+- [Contravariance and Covariance](Relativity/Relativity102_Keys_To_Relativity/Relativity102b_Contravariance_and_Covariance_example_problems_and_solutions.md)
 
 ### Relativity 103 - Galilean Relativity
 - [Spacetime Diagrams](Relativity/Relativity103_Galilean_Relativity/Relativity103a_Spacetime_Diagrams_example_problems_and_solutions.md)
@@ -66,7 +66,7 @@ Comprehensive collection of example problems and solutions for eigenchris's theo
 - [Gravitational Waves Introduction](Relativity/Relativity109_Gravitational_Waves/Relativity109a_Gravitational_Waves_Introduction_example_problems_and_solutions.md)
 - [Linearized Gravity](Relativity/Relativity109_Gravitational_Waves/Relativity109b_Linearized_Gravity_example_problems_and_solutions.md)
 - [Lorentz Gauge](Relativity/Relativity109_Gravitational_Waves/Relativity109c_Lorentz_Gauge_example_problems_and_solutions.md)
-- [Transverse Traceless Gauge & Polarizations](Relativity/Relativity109_Gravitational_Waves/Relativity109d_Transverse_Tracesless_Gauge_Plus_Cross_Polarizations_example_problems_and_solutions.md)
+- [Transverse Traceless Gauge & Polarizations](Relativity/Relativity109_Gravitational_Waves/Relativity109d_Transverse_Traceless_Gauge_Plus_Cross_Polarizations_example_problems_and_solutions.md)
 - [How Gravitational Waves Affect Free Particles](Relativity/Relativity109_Gravitational_Waves/Relativity109e_How_Gravitational_Waves_Affect_Free_Particles_example_problems_and_solutions.md)
 
 ### Relativity 110 - Cosmology
