@@ -1,3 +1,5 @@
+# TensorCalc 14: Gradient Explanation and Examples - Example Problems and Solutions
+
 ## Problem 1: Geometric Interpretation of the Gradient
 
 1. The gradient $\nabla f$ of a scalar function $f$ points in the direction of the greatest rate of increase of $f$.

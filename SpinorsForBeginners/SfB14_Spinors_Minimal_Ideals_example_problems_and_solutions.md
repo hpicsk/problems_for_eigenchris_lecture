@@ -1,3 +1,5 @@
+# SfB 14: Spinors Minimal Ideals - Example Problems and Solutions
+
 
 This lecture builds upon the previous one, defining spinors as elements of minimal left ideals of a Clifford algebra.
 

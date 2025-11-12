@@ -1,3 +1,5 @@
+# Relativity 103c: Galilean Transformations - Example Problems and Solutions
+
 ## Problem 1
 
 A particle has coordinates $(t, x)$ in a stationary frame $S$. What are its coordinates $(t', x')$ in a frame $S'$ moving with velocity $v$ with respect to $S$?

@@ -1,3 +1,5 @@
+# Relativity 105a: Acceleration Hyperbolia Worldlines - Example Problems and Solutions
+
 ## Problem 1
 
 A particle starts from rest and moves with a constant proper acceleration $a$. Find the equation of its worldline.

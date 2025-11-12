@@ -1,3 +1,5 @@
+# TfB 10: Bilinear Forms - Example Problems and Solutions
+
 ## Problem 1
 A bilinear form $B$ is represented by the matrix 
 $$M = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$$

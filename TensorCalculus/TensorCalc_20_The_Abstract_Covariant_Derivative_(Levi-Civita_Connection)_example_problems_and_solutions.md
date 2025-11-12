@@ -1,3 +1,5 @@
+# TensorCalc 20: The Abstract Covariant Derivative (Levi-Civita Connection) - Example Problems and Solutions
+
 ## The Connection
 
 ### Problem 1

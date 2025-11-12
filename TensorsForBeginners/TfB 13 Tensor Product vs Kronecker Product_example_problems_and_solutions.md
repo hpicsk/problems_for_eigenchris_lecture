@@ -1,3 +1,5 @@
+# TfB 13: Tensor Product vs Kronecker Product - Example Problems and Solutions
+
 ## Problem 1
 Given the matrices 
 $$A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} \quad \text{and} \quad B = \begin{bmatrix} 0 & 5 \\ 6 & 7 \end{bmatrix}$$

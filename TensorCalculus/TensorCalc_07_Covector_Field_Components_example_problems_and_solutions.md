@@ -1,3 +1,5 @@
+# TensorCalc 07: Covector Field Components - Example Problems and Solutions
+
 ## Components of a Covector Field
 
 ### Problem 1

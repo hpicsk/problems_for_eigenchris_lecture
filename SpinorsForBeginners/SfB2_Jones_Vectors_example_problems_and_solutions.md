@@ -1,3 +1,5 @@
+# SfB 2: Jones Vectors - Example Problems and Solutions
+
 This lecture introduces the Jones calculus, a mathematical framework for describing the polarization of light.
 
 ## Problem 1: Basic Jones Vectors
