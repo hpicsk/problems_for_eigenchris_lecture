@@ -3,7 +3,7 @@ This lecture focuses on the spin 1/2 representation of the SU(2) group, which de
 
 ## Problem 1: Wigner D-matrix for spin 1/2
 
-The rotation operator for a spin 1/2 particle is given by $D(R) = e^{-i\frac{\theta}{2} \hat{n} \cdot \vec{\sigma}}}$, where R is a rotation by angle $\theta$ about the axis $\hat{n}$.
+The rotation operator for a spin 1/2 particle is given by $D(R) = e^{-i\frac{\theta}{2} \hat{n} \cdot \vec{\sigma}}$, where R is a rotation by angle $\theta$ about the axis $\hat{n}$.
 
 a) A rotation by angle $\alpha$ about the z-axis is given by $R_z(\alpha)$. Write down the corresponding D-matrix.
 
