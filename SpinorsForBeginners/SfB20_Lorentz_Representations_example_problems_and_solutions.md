@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Representations of the Lorentz Group"
+---
 
 # Example Problems: Representations of the Lorentz Group
 

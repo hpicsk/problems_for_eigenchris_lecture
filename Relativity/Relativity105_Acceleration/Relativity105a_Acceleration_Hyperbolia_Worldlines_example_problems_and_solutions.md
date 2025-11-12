@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Acceleration and Hyperbolic Worldlines"
+---
+
 # Acceleration and Hyperbolic Worldlines - Problems and Solutions
 
 ## Problem 1

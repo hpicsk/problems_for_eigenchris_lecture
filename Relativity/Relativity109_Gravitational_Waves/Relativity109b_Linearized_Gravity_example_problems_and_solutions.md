@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Linearized Gravity"
+---
+
 # Linearized Gravity - Example Problems and Solutions
 
 ## Problem 1

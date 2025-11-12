@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 13 Tensor Product vs Kronecker Product"
+---
+
 # TfB 13 Tensor Product vs Kronecker Product: Example Problems and Solutions
 
 ## Problem 1

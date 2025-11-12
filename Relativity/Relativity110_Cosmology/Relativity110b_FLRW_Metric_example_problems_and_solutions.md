@@ -1,3 +1,8 @@
+---
+layout: default
+title: "FLRW Metric"
+---
+
 # FLRW Metric - Example Problems and Solutions
 
 ## Problem 1

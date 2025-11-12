@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Spacetime Interval and Minkowski Metric"
+---
+
 # Spacetime Interval and Minkowski Metric - Problems and Solutions
 
 ## Problem 1

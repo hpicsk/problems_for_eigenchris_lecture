@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Spin-1/2 Representations"
+---
+
 # Example Problems: Spin-1/2 Representations
 
 This lecture focuses on the fundamental building block of many physical theories: the spin-1/2 representation of the rotation and Lorentz groups.

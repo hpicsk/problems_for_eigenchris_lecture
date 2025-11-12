@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 8 Linear Map Transformation Rules"
+---
+
 # TfB 8 Linear Map Transformation Rules: Example Problems and Solutions
 
 ## Problem 1

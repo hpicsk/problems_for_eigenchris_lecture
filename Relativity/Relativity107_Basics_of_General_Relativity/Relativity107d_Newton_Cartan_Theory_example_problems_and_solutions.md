@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Newton-Cartan Theory"
+---
+
 # Newton-Cartan Theory - Example Problems and Solutions
 
 ## Problem 1

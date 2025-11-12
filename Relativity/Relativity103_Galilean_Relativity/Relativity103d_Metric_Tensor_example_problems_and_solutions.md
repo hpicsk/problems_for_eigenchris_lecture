@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Metric Tensor"
+---
+
 # Metric Tensor - Problems and Solutions
 
 ## Problem 1

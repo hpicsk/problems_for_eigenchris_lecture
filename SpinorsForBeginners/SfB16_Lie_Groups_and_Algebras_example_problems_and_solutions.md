@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Lie Groups and Algebras"
+---
 
 # Example Problems: Lie Groups and Algebras
 

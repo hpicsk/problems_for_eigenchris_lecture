@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Factoring a 3D Vector into Pauli Spinors"
+---
+
 # Example Problems and Solutions: Factoring a 3D Vector into Pauli Spinors
 
 This lecture covers the relationship between a 3D vector and a pair of 2-component spinors, sometimes called the "spinor flag". A null vector can be written as an outer product of a spinor with its conjugate.

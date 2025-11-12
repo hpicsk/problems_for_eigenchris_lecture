@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lorentz Transformation Derivation Equation"
+---
+
 # Lorentz Transformation Derivation Equation - Problems and Solutions
 
 ## Problem 1

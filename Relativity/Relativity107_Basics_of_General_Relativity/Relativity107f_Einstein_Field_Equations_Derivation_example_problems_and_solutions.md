@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Einstein Field Equations Derivation"
+---
+
 # Einstein Field Equations Derivation - Example Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Galilean Transformations"
+---
+
 # Galilean Transformations - Problems and Solutions
 
 ## Problem 1

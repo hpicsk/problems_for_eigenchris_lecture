@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Proca Equation and Solutions"
+---
+
 # Example Problems: Proca Equation and Solutions
 
 The Proca equation describes a massive spin-1 particle. It can be seen as a generalization of the Maxwell equations.

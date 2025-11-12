@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Covariant Derivative"
+---
+
 # Covariant Derivative - Problems and Solutions
 
 ## Problem 1

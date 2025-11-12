@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Spin 1/2 Representations"
+---
 
 # Example Problems: Spin 1/2 Representations
 

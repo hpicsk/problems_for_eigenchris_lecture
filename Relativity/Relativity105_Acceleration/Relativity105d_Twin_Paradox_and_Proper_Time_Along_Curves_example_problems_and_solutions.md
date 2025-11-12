@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Twin Paradox and Proper Time Along Curves"
+---
+
 # Twin Paradox and Proper Time Along Curves - Problems and Solutions
 
 ## Problem 1

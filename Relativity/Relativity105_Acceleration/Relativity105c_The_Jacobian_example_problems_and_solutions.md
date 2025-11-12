@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Jacobian"
+---
+
 # The Jacobian - Problems and Solutions
 
 ## Problem 1

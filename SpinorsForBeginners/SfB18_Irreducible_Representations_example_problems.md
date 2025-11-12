@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Irreducible Representations"
+---
+
 # Example Problems: Irreducible Representations
 
 This lecture focuses on the building blocks of representation theory: the irreducible representations (irreps).

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Eddington-Finkelstein, Kruskal-Szekeres Coordinates and Einstein-Rosen Bridge"
+---
+
 # Eddington-Finkelstein, Kruskal-Szekeres Coordinates and Einstein-Rosen Bridge - Problems and Solutions
 
 ## Problem 1

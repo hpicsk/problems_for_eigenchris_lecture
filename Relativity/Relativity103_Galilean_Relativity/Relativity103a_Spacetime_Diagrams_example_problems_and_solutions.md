@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Spacetime Diagrams"
+---
+
 # Spacetime Diagrams - Problems and Solutions
 
 ## Problem 1

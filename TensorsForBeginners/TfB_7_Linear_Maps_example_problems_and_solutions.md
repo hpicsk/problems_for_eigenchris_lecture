@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 7 Linear Maps"
+---
+
 # TfB 7 Linear Maps: Example Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Dynamics and Four-Vectors"
+---
+
 # Dynamics and Four-Vectors - Problems and Solutions
 
 ## Problem 1

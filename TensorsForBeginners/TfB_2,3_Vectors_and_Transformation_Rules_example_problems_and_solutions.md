@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 2,3 Vectors and Transformation Rules"
+---
+
 # TfB 2,3 Vectors and Transformation Rules: Example Problems and Solutions
 
 ## Problem 1

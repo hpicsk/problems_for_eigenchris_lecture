@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Tensor Product Representations"
+---
+
 # Example Problems: Tensor Product Representations
 
 This lecture likely covers how to combine representations of a group, for example, to describe a system with multiple particles.

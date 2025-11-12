@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Special Relativity"
+---
+
 # Special Relativity - Example Problems and Solutions
 
 ## Problem 1

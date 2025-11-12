@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Schwarzschild Metric Derivation"
+---
+
 # Schwarzschild Metric Derivation - Problems and Solutions
 
 ## Problem 1

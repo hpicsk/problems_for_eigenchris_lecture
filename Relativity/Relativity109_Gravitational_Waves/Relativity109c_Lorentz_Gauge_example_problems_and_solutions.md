@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lorentz Gauge"
+---
+
 # Lorentz Gauge - Example Problems and Solutions
 
 ## Problem 1

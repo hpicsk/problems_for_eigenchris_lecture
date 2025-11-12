@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Pauli Vectors"
+---
+
 # Example Problems and Solutions: Pauli Vectors
 
 This lecture introduces the Pauli matrices and how they can be used to represent vectors and perform rotations.

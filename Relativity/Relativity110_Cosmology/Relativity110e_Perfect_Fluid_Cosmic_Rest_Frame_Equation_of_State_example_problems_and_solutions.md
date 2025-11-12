@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Perfect Fluid, Cosmic Rest Frame, and Equation of State"
+---
+
 # Perfect Fluid, Cosmic Rest Frame, and Equation of State - Example Problems and Solutions
 
 ## Problem 1

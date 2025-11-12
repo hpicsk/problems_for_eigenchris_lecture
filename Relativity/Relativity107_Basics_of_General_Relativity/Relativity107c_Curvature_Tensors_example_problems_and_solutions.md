@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Curvature Tensors"
+---
+
 # Curvature Tensors - Example Problems and Solutions
 
 ## Problem 1

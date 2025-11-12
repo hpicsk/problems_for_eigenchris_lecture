@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Transverse Traceless Gauge, Plus and Cross Polarizations"
+---
+
 # Transverse Traceless Gauge, Plus and Cross Polarizations - Example Problems and Solutions
 
 ## Problem 1

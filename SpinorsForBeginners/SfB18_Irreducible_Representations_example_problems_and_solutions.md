@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Irreducible Representations"
+---
 
 # Example Problems: Irreducible Representations
 

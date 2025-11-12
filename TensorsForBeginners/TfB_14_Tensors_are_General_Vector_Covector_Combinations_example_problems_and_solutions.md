@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 14 Tensors are General Vector Covector Combinations"
+---
+
 # TfB 14 Tensors are General Vector Covector Combinations: Example Problems and Solutions
 
 ## Problem 1

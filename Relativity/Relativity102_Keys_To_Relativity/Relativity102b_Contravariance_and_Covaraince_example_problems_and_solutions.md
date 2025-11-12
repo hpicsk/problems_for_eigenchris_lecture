@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Contravariance and Covariance"
+---
+
 # Contravariance and Covariance - Example Problems and Solutions
 
 ## Problem 1

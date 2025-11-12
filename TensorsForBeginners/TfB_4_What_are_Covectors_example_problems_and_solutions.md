@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 4 What are Covectors"
+---
+
 # TfB 4 What are Covectors: Example Problems and Solutions
 
 ## Problem 1

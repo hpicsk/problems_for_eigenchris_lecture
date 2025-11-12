@@ -1,3 +1,8 @@
+---
+layout: default
+title: "How Gravitational Waves Affect Free Particles"
+---
+
 # How Gravitational Waves Affect Free Particles - Example Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Double Covers"
+---
+
 # Example Problems and Solutions: Double Covers
 
 This lecture explains the concept of a double cover, focusing on the relationship between SU(2) and SO(3), and Spin(1,3) and SO+(1,3).

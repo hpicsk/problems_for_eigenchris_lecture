@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Geodesics"
+---
+
 # Geodesics - Problems and Solutions
 
 ## Problem 1

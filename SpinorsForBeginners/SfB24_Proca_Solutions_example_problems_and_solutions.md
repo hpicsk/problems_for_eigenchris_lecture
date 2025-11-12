@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Solutions to the Proca Equation"
+---
 
 # Example Problems: Solutions to the Proca Equation
 

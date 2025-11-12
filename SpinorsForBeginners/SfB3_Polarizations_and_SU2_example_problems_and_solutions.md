@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Polarizations and SU(2)"
+---
+
 # Example Problems and Solutions: Polarizations and SU(2)
 
 This lecture connects the Jones calculus for polarization with the mathematics of SU(2), likely via the Poincaré sphere.

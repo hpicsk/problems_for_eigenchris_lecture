@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Schwarzschild Metric Interpretation"
+---
+
 # Schwarzschild Metric Interpretation - Problems and Solutions
 
 ## Problem 1

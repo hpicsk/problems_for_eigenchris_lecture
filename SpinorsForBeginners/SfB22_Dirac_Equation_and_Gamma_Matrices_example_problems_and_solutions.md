@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Dirac Equation and Gamma Matrices"
+---
 
 # Example Problems: Dirac Equation and Gamma Matrices
 

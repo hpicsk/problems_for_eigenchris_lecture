@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Dirac Equation and Gamma Matrices"
+---
+
 # Example Problems: The Dirac Equation and Gamma Matrices
 
 The Dirac equation is the relativistic wave equation for spin-1/2 particles.

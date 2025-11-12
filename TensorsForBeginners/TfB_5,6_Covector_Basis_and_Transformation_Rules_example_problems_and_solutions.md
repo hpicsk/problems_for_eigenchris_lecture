@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 5,6 Covector Basis and Transformation Rules"
+---
+
 # TfB 5,6 Covector Basis and Transformation Rules: Example Problems and Solutions
 
 ## Problem 1

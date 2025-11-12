@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Jones Vectors"
+---
+
 # Example Problems and Solutions: Jones Vectors
 
 This lecture introduces the Jones calculus, a mathematical framework for describing the polarization of light.

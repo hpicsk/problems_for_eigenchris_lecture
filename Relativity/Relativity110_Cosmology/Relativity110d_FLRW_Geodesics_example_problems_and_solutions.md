@@ -1,3 +1,8 @@
+---
+layout: default
+title: "FLRW Geodesics"
+---
+
 # FLRW Geodesics - Example Problems and Solutions
 
 ## Problem 1

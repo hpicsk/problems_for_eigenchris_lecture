@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Friedmann Equations"
+---
+
 # Friedmann Equations - Example Problems and Solutions
 
 ## Problem 1

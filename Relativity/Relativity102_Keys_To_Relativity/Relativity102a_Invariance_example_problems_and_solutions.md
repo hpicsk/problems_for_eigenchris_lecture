@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Invariance"
+---
+
 # Invariance - Example Problems and Solutions
 
 ## Problem 1

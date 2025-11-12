@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Equivalence Principle"
+---
+
 # Equivalence Principle - Example Problems and Solutions
 
 ## Problem 1

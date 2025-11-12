@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Problems With Galilean Relativity"
+---
+
 # Problems With Galilean Relativity - Problems and Solutions
 
 ## Problem 1

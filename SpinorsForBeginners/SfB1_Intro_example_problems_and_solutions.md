@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Introduction to Spinors"
+---
+
 # Example Problems and Solutions: Introduction to Spinors
 
 This is an introductory lecture, so the problems will be conceptual and aim to set the stage for the topics to come.

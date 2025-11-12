@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Spacetime Manifold"
+---
+
 # Spacetime Manifold - Example Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Spinors as Minimal Ideals"
+---
 
 # Example Problems: Spinors as Minimal Ideals
 

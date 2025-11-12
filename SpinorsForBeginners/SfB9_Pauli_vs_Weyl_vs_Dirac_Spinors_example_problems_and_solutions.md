@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Pauli, Weyl, and Dirac Spinors"
+---
+
 # Example Problems and Solutions: Pauli, Weyl, and Dirac Spinors
 
 ## Problem 1: Chirality of Dirac Spinors

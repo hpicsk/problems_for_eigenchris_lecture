@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 15 Tensor Product Spaces"
+---
+
 # TfB 15 Tensor Product Spaces: Example Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 9 Metric Tensor"
+---
+
 # TfB 9 Metric Tensor: Example Problems and Solutions
 
 ## Problem 1

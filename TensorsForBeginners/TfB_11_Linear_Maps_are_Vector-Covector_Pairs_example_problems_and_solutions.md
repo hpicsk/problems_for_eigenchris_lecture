@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 11 Linear Maps are Vector-Covector Pairs"
+---
+
 # TfB 11 Linear Maps are Vector-Covector Pairs: Example Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 12 Bilinear Forms are Covector-Covector Pairs"
+---
+
 # TfB 12 Bilinear Forms are Covector-Covector Pairs: Example Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Gravitational Waves Introduction"
+---
+
 # Gravitational Waves Introduction - Example Problems and Solutions
 
 ## Problem 1

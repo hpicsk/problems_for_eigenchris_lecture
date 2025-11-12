@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Schwarzschild Geodesics and Mercury Perihelion"
+---
+
 # Schwarzschild Geodesics and Mercury Perihelion - Problems and Solutions
 
 ## Problem 1

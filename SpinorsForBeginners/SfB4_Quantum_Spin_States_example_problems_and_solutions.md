@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Quantum Spin States"
+---
+
 # Example Problems and Solutions: Quantum Spin States
 
 This lecture introduces the quantum mechanical description of spin-1/2 particles.

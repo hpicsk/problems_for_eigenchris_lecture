@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Covectors and Doppler Effect"
+---
+
 # Covectors and Doppler Effect - Problems and Solutions
 
 ## Problem 1

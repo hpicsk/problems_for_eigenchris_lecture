@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Velocity Addition and Relativity of Simultaneity"
+---
+
 # Velocity Addition and Relativity of Simultaneity - Problems and Solutions
 
 ## Problem 1

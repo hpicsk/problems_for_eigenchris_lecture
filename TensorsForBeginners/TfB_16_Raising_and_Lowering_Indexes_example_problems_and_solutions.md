@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 16 Raising and Lowering Indexes"
+---
+
 # TfB 16 Raising and Lowering Indexes: Example Problems and Solutions
 
 ## Problem 1

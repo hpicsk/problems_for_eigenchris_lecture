@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 10 Bilinear Forms"
+---
+
 # TfB 10 Bilinear Forms: Example Problems and Solutions
 
 ## Problem 1

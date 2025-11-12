@@ -1,3 +1,8 @@
+---
+layout: default
+title: "TfB 1 ForwardBackward"
+---
+
 # TfB 1 ForwardBackward: Example Problems and Solutions
 
 ## Problem 1

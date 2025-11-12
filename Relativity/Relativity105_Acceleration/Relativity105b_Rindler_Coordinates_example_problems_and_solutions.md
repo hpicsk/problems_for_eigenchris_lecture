@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Rindler Coordinates"
+---
+
 # Rindler Coordinates - Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lie Groups and Lie Algebras"
+---
+
 # Example Problems: Lie Groups and Lie Algebras
 
 This lecture introduces the mathematical framework for continuous symmetries.

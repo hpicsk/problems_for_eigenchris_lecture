@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Gravitational Frequency Shift and Covector Fields"
+---
+
 # Gravitational Frequency Shift and Covector Fields - Problems and Solutions
 
 ## Problem 1

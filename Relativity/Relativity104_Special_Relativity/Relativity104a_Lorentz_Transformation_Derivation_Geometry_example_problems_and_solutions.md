@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lorentz Transformation Derivation Geometry"
+---
+
 # Lorentz Transformation Derivation Geometry - Problems and Solutions
 
 ## Problem 1

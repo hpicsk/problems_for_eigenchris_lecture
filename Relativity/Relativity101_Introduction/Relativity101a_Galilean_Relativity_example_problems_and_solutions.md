@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Galilean Relativity"
+---
+
 # Galilean Relativity - Example Problems and Solutions
 
 ## Problem 1

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Solutions to the Klein-Gordon Equation"
+---
 
 # Example Problems: Solutions to the Klein-Gordon Equation
 

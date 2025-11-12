@@ -1,3 +1,8 @@
+---
+layout: default
+title: "History of Cosmology"
+---
+
 # History of Cosmology - Example Problems and Solutions
 
 ## Problem 1

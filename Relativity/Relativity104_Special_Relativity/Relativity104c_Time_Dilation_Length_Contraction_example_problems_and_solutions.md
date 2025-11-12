@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Time Dilation and Length Contraction"
+---
+
 # Time Dilation and Length Contraction - Problems and Solutions
 
 ## Problem 1

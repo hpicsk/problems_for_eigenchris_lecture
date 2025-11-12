@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Spacetime Separation Vector"
+---
+
 # Spacetime Separation Vector - Problems and Solutions
 
 ## Problem 1
