@@ -1,5 +1,3 @@
-# Relativity 108e: Gravitational Frequency Shift Covector Fields - Example Problems and Solutions
-
 ## Problem 1
 
 Derive the formula for the gravitational frequency shift.

@@ -1,5 +1,3 @@
-# Relativity 104f: Dynamics and Four Vectors - Example Problems and Solutions
-
 ## Problem 1
 
 Define the four-velocity and four-momentum.

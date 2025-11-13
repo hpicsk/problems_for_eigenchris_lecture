@@ -1,5 +1,3 @@
-# Relativity 103d: Metric Tensor - Example Problems and Solutions
-
 ## Problem 1
 
 What is the metric tensor for a 2D Euclidean space in Cartesian coordinates?

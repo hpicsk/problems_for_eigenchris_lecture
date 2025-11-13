@@ -1,5 +1,3 @@
-# Relativity 105b: Rindler Coordinates - Example Problems and Solutions
-
 ## Problem 1
 
 Write down the transformation from Minkowski coordinates to Rindler coordinates.

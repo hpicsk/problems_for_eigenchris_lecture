@@ -1,5 +1,3 @@
-# SfB 16: Lie Groups and Algebras - Example Problems
-
 This lecture introduces the mathematical framework for continuous symmetries.
 
 ## Problem 1: What is a Lie Group?

@@ -1,5 +1,3 @@
-# SfB 24: Proca Solutions - Example Problems and Solutions
-
 
 This lecture deals with the Proca equation, which describes massive spin-1 particles (vector bosons).
 

@@ -1,5 +1,3 @@
-# SfB 6: Pauli Vectors - Example Problems and Solutions
-
 This lecture introduces the Pauli matrices and how they can be used to represent vectors and perform rotations.
 
 ## Problem 1: Pauli Matrix Properties

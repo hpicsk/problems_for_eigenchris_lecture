@@ -1,5 +1,3 @@
-# SfB 4: Quantum Spin States - Example Problems and Solutions
-
 This lecture introduces the quantum mechanical description of spin-1/2 particles.
 
 ## Problem 1: Spin Operators

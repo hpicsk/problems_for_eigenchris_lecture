@@ -1,5 +1,3 @@
-# SfB 16: Lie Groups and Algebras - Example Problems and Solutions
-
 
 This lecture introduces the mathematical framework of Lie groups and Lie algebras, which are essential for describing continuous symmetries in physics.
 

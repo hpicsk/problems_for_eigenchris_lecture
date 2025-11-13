@@ -1,5 +1,3 @@
-# Relativity 107d: Newton Cartan Theory - Example Problems and Solutions
-
 ## Problem 1
 
 What is Newton-Cartan theory? How is it a geometric formulation of Newtonian gravity?

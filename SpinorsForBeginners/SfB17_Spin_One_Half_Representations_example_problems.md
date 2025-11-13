@@ -1,5 +1,3 @@
-# SfB 17: Spin One Half Representations - Example Problems
-
 This lecture focuses on the fundamental building block of many physical theories: the spin-1/2 representation of the rotation and Lorentz groups.
 
 ## Problem 1: The Spin-1/2 Rep of SU(2)

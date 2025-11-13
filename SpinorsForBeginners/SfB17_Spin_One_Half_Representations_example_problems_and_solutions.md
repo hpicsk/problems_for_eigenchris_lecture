@@ -1,5 +1,3 @@
-# SfB 17: Spin One Half Representations - Example Problems and Solutions
-
 
 This lecture focuses on the spin 1/2 representation of the SU(2) group, which describes the behavior of spin 1/2 particles like electrons.
 

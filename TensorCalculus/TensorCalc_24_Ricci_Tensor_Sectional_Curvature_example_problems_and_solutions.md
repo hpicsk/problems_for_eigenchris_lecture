@@ -1,5 +1,3 @@
-# TensorCalc 24: Ricci Tensor Sectional Curvature - Example Problems and Solutions
-
 ## The Ricci Tensor
 
 The Ricci tensor is obtained by contracting the Riemann tensor: $R_{jk} = R^i_{jik}$.

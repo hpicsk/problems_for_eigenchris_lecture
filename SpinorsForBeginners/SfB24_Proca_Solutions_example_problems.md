@@ -1,5 +1,3 @@
-# SfB 24: Proca Solutions - Example Problems
-
 The Proca equation describes a massive spin-1 particle. It can be seen as a generalization of the Maxwell equations.
 
 ## Problem 1: The Proca Equation

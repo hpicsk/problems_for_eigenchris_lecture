@@ -1,5 +1,3 @@
-# SfB 11: Clifford Algebras - Example Problems and Solutions
-
 Clifford algebras are a powerful tool for geometry, unifying vectors, bivectors, and other multivectors into a single algebraic structure.
 
 ## Problem 1: The Clifford Product

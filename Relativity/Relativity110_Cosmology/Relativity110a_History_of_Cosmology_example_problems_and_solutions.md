@@ -1,5 +1,3 @@
-# Relativity 110a: History of Cosmology - Example Problems and Solutions
-
 ## Problem 1
 
 Describe the geocentric and heliocentric models of the universe.

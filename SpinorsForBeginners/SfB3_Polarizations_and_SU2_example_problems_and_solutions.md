@@ -1,5 +1,3 @@
-# SfB 3: Polarizations and SU2 - Example Problems and Solutions
-
 This lecture connects the Jones calculus for polarization with the mathematics of SU(2), likely via the Poincaré sphere.
 
 ## Problem 1: Jones Vectors and SU(2)

@@ -1,5 +1,3 @@
-# Relativity 104a: Lorentz Transformation Derivation Geometry - Example Problems and Solutions
-
 ## Problem 1
 
 Using a spacetime diagram, derive the Lorentz transformations for a boost in the x-direction.
