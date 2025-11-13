@@ -1,3 +1,5 @@
+# Relativity 109e: How Gravitational Waves Affect Free Particles - Example Problems and Solutions
+
 ## Problem 1
 
 How does a gravitational wave affect a ring of free particles?

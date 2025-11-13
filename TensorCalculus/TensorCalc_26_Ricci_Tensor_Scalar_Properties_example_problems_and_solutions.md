@@ -1,3 +1,5 @@
+# TensorCalc 26: Ricci Tensor Scalar Properties - Example Problems and Solutions
+
 ## Einstein Tensor
 
 The Einstein tensor is defined as $G_{ij} = R_{ij} - \frac{1}{2} R g_{ij}$.

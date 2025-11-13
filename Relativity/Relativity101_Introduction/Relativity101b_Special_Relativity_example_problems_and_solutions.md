@@ -1,3 +1,5 @@
+# Relativity 101b: Special Relativity - Example Problems and Solutions
+
 ## Problem 1
 
 A spaceship is moving at a speed of $0.8c$ relative to the Earth. A person on the spaceship measures the length of the spaceship to be $100$ m. What is the length of the spaceship as measured by an observer on the Earth?

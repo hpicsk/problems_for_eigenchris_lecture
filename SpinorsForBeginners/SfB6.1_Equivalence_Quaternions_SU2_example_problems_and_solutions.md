@@ -1,3 +1,5 @@
+# SfB 6.1: Equivalence Quaternions SU2 - Example Problems and Solutions
+
 This lecture explores the isomorphism between the group of unit quaternions and the special unitary group SU(2).
 
 ## Problem 1: Basic Quaternion Multiplication

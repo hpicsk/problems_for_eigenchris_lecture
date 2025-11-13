@@ -1,3 +1,5 @@
+# Relativity 105d: Twin Paradox and Proper Time Along Curves - Example Problems and Solutions
+
 ## Problem 1
 
 Explain the twin paradox.

@@ -1,3 +1,5 @@
+# SfB 19: Tensor Product Representations - Example Problems and Solutions
+
 This lecture likely covers how to combine representations of a group, for example, to describe a system with multiple particles.
 
 ## Problem 1: Tensor Product of Vector Spaces

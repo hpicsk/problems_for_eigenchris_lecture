@@ -1,3 +1,5 @@
+# TensorCalc 04: Derivatives are Vectors - Example Problems and Solutions
+
 ## Directional Derivatives
 
 ### Problem 1
