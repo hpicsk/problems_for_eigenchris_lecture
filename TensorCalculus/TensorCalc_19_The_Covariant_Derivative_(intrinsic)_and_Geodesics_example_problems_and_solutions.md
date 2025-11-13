@@ -1,3 +1,5 @@
+# TensorCalc 19: The Covariant Derivative (intrinsic) and Geodesics - Example Problems and Solutions
+
 ## Intrinsic Covariant Derivative
 
 ### Problem 1

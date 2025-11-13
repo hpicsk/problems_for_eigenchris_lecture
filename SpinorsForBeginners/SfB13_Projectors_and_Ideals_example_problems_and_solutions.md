@@ -1,3 +1,5 @@
+# SfB 13: Projectors and Ideals - Example Problems and Solutions
+
 This lecture likely provides the algebraic tools needed to define spinors as minimal ideals.
 
 ## Problem 1: Projectors (Idempotents)

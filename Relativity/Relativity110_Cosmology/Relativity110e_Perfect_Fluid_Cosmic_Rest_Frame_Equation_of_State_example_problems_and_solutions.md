@@ -1,3 +1,5 @@
+# Relativity 110e: Perfect Fluid Cosmic Rest Frame Equation of State - Example Problems and Solutions
+
 ## Problem 1
 
 What is a perfect fluid?

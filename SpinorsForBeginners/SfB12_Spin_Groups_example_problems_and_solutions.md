@@ -1,3 +1,5 @@
+# SfB 12: Spin Groups - Example Problems and Solutions
+
 This lecture introduces the Spin group, which is the double cover of the special orthogonal group SO(n).
 
 ## Problem 1: The Pin and Spin Groups

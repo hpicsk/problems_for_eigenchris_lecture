@@ -1,3 +1,5 @@
+# TensorCalc 03: The Jacobian - Example Problems and Solutions
+
 ## Jacobian Matrix
 
 ### Problem 1

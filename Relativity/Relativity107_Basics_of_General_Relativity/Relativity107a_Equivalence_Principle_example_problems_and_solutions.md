@@ -1,3 +1,5 @@
+# Relativity 107a: Equivalence Principle - Example Problems and Solutions
+
 ## Problem 1
 
 State the weak equivalence principle and the strong equivalence principle.
