@@ -1,5 +1,3 @@
-# Relativity 107e: Energy Momentum Tensor - Example Problems and Solutions
-
 ## Problem 1
 
 What is the energy-momentum tensor? What does it represent?

@@ -1,5 +1,3 @@
-# TensorCalc 05: Derivatives Transformation Rules (Contravariance) - Example Problems and Solutions
-
 ## Transformation of Basis Vectors
 
 ### Problem 1

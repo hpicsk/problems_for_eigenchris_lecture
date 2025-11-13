@@ -1,5 +1,3 @@
-# Relativity 108d: Eddington Finkelstein Kruskal Szekeres Coords Einstein Rosen Bridge - Example Problems and Solutions
-
 ## Problem 1
 
 What are Eddington-Finkelstein coordinates? How do they remove the coordinate singularity at the event horizon?

@@ -1,5 +1,3 @@
-# Relativity 104d: Velocity Addition Relativity of Simultaneity - Example Problems and Solutions
-
 ## Problem 1
 
 A spaceship is moving at a speed of $0.5c$. It fires a missile in the forward direction with a speed of $0.5c$ relative to the spaceship. What is the speed of the missile as measured by a stationary observer?

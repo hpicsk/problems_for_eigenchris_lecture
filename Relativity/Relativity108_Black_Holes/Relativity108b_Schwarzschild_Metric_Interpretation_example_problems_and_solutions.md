@@ -1,5 +1,3 @@
-# Relativity 108b: Schwarzschild Metric Interpretation - Example Problems and Solutions
-
 ## Problem 1
 
 What is the event horizon of a Schwarzschild black hole?

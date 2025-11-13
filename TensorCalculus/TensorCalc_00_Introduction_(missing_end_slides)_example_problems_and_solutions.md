@@ -1,5 +1,3 @@
-# TensorCalc 00: Introduction (missing end slides) - Example Problems and Solutions
-
 ## Conceptual Questions
 
 ### Problem 1

@@ -1,5 +1,3 @@
-# TensorCalc 17: The Covariant Derivative (flat space) - Example Problems and Solutions
-
 ## The Covariant Derivative
 
 ### Problem 1

@@ -1,5 +1,3 @@
-# Relativity 109d: Transverse Traceless Gauge Plus Cross Polarizations - Example Problems and Solutions
-
 ## Problem 1
 
 What is the transverse traceless gauge?

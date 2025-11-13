@@ -1,5 +1,3 @@
-# TensorCalc 01: Multi-Variable Calculus Review - Example Problems and Solutions
-
 ## Partial Derivatives
 
 ### Problem 1

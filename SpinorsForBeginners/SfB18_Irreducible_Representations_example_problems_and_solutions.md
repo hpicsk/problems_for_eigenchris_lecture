@@ -1,5 +1,3 @@
-# SfB 18: Irreducible Representations - Example Problems and Solutions
-
 
 This lecture covers the concept of irreducible representations (irreps) of Lie groups, which are the building blocks of all representations.
 

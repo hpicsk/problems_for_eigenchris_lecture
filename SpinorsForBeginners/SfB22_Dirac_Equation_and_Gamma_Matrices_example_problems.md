@@ -1,5 +1,3 @@
-# SfB 22: Dirac Equation and Gamma Matrices - Example Problems
-
 The Dirac equation is the relativistic wave equation for spin-1/2 particles.
 
 ## Problem 1: Deriving the Dirac Equation

@@ -1,5 +1,3 @@
-# Relativity 107f: Einstein Field Equations Derivation - Example Problems and Solutions
-
 ## Problem 1
 
 Starting from the Einstein-Hilbert action, derive the Einstein field equations.

@@ -1,5 +1,3 @@
-# Relativity 103b: Spacetime Separation Vector - Example Problems and Solutions
-
 ## Problem 1
 
 Two events have spacetime coordinates $(t_1, x_1)$ and $(t_2, x_2)$. Write down the spacetime separation vector between these two events.

@@ -1,5 +1,3 @@
-# SfB 18: Irreducible Representations - Example Problems
-
 This lecture focuses on the building blocks of representation theory: the irreducible representations (irreps).
 
 ## Problem 1: What is a Representation?

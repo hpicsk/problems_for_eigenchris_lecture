@@ -1,5 +1,3 @@
-# TensorCalc 09: Integration With Differential Forms - Example Problems and Solutions
-
 ## Integration of k-forms
 
 ### Problem 1

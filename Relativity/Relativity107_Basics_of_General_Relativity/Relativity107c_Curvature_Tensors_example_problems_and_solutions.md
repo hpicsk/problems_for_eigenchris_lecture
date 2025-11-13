@@ -1,5 +1,3 @@
-# Relativity 107c: Curvature Tensors - Example Problems and Solutions
-
 ## Problem 1
 
 What is the Riemann curvature tensor? What does it measure?

@@ -1,5 +1,3 @@
-# SfB 1: Intro - Example Problems and Solutions
-
 This is an introductory lecture, so the problems will be conceptual and aim to set the stage for the topics to come.
 
 ## Problem 1: What is a Spinor?
